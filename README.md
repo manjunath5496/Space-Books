@@ -38,7 +38,7 @@ Phase I Report (November 10, 1999)</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(16).pdf" style="text-decoration:none;">Minotaur I User's Guide</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(17).pdf" style="text-decoration:none;">Rocket Propulsion Elements</a></li>   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(18).pdf" style="text-decoration:none;">SOYUZ User's Manual</a></li> 
 
@@ -58,6 +58,7 @@ Guide</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(25).pdf" style="text-decoration:none;">Rockets and People: 
 Volume III: Hot Days of the Cold War</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(26).pdf" style="text-decoration:none;">Rockets and People: Volume IV: The Moon Race</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(27).pdf" style="text-decoration:none;">Rocket Performance and Efficiency</a></li> 
  </ul>
   
   
