@@ -59,6 +59,18 @@ Guide</a></li>
 Volume III: Hot Days of the Cold War</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(26).pdf" style="text-decoration:none;">Rockets and People: Volume IV: The Moon Race</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(27).pdf" style="text-decoration:none;">Rocket Performance and Efficiency</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(28).pdf" style="text-decoration:none;">How Rockets Work</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Space-Books/blob/master/spc(29).pdf" style="text-decoration:none;">Rockets Educator Guide</a></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  </ul>
   
   
